@@ -16,8 +16,6 @@ Used to
     - creates a library and then use it in main / app.
 - import_json_library:
     - Imports 'jsmn' JSON library and uses it in main / app.
--lwip_contrib
-    - V2.1.2 CMAKE based lwip contrib project.
 
     
 
