@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/create_and_use_lib.dir/src/main.c.o  -o create_and_use_lib lib/libmylib.a 

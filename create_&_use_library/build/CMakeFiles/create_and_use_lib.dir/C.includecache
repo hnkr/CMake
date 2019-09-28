@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/messages.h
+
+../lib/inc/my_calcul.h
+
+../lib/inc/my_print.h
+
+/home/prsnl/gitHUB/CMake/create_&_use_library/src/main.c
+messages.h
+/home/prsnl/gitHUB/CMake/create_&_use_library/src/messages.h
+my_print.h
+/home/prsnl/gitHUB/CMake/create_&_use_library/src/my_print.h
+my_calcul.h
+/home/prsnl/gitHUB/CMake/create_&_use_library/src/my_calcul.h
+stdio.h
+-
+

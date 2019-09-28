@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmylib.a  CMakeFiles/mylib.dir/src/my_print.c.o CMakeFiles/mylib.dir/src/my_calcul.c.o
+/usr/bin/ranlib libmylib.a
