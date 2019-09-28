@@ -21,7 +21,7 @@
 
 ## Working Principle
 When it starts running, 
-- It prints out to stdout as senn below: <br />
+- It prints out to stdout as seen below: <br />
 
 **** Create and Use Your Own Library ****
 MSG1:MESSAGE_1_ <br />
