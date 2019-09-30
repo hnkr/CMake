@@ -17,7 +17,9 @@
     - Type 'cmake ..' to create Makefile
     - Type 'make' to build
 - Run:
-    - ./name_of_executable
+    - ./import_and_use_lib
+
+    Note:Copy the generated libmylib.a from the build folder of the 1st example(after bıilt) into lib folder. 
 
 ## Working Principle
 When it starts running, 
