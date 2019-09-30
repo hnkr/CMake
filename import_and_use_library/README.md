@@ -19,7 +19,7 @@
 - Run:
     - ./import_and_use_lib
 
-    Note:Copy the generated libmylib.a from the build folder of the 1st example(after bıilt) into lib folder. 
+    Note:Copy the generated libmylib.a from the build folder of the 1st example(after built) into lib folder. 
 
 ## Working Principle
 When it starts running, 
