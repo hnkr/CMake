@@ -20,7 +20,6 @@
     - ./name_of_executable
 
 ## Working Principle
-## Working Principle
 When it starts running, 
 - It prints out to stdout as seen below by using the library: <br />
 
