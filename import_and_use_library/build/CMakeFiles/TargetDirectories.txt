@@ -1,0 +1,3 @@
+/home/prsnl/gitHUB/CMake/import_and_use_library/build/CMakeFiles/rebuild_cache.dir
+/home/prsnl/gitHUB/CMake/import_and_use_library/build/CMakeFiles/edit_cache.dir
+/home/prsnl/gitHUB/CMake/import_and_use_library/build/CMakeFiles/import_and_use_lib.dir

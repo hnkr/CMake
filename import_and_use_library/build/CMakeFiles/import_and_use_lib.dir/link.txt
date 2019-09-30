@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/import_and_use_lib.dir/main.c.o  -o import_and_use_lib ../lib/libmylib.a 
