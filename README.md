@@ -14,8 +14,8 @@ Used to
 ## Projects
 - create_&_use_library:
     - creates a library and then use it in main / app.
-- import_json_library:
-    - Imports 'jsmn' JSON library and uses it in main / app.
+- import_and_use_library:
+    - Imports libmylib.a library ,that will be created by the 1st example, and uses it in main / app.
 
     
 
