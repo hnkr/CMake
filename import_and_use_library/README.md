@@ -10,7 +10,7 @@
 - GNU Make
     - minimum version required: 4.1
 
-## Compile & Run
+## Build & Run
 - Build:
     - Create /build directory
     - Get in build (cd build/)
